@@ -1,0 +1,41 @@
+body {
+  background-color: lightblue;
+}
+.header{
+  color: black;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.block {
+	border-style: solid;
+  border-color: black;
+  color: black;
+  font-style: oblique;
+  font-size: 25px;
+	padding: 10px;
+	margin: 5px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 15%;
+}
+
+.social{
+  font-size: 35px;
+  text-align: center;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-github {
+  background: #000000;
+  color: white;
+}
